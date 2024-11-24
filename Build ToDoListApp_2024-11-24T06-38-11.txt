@@ -1,0 +1,32 @@
+
+Showing Recent Issues
+
+Prepare build
+note: Building targets in dependency order
+error: Multiple commands produce '/Users/pavelpopov/Library/Developer/Xcode/DerivedData/ToDoListApp-enihinfxazpbpdadwutnrqquoxjp/Build/Intermediates.noindex/ToDoListApp.build/Debug-iphonesimulator/ToDoListApp.build/Objects-normal/x86_64/TaskEntity+CoreDataClass.o'
+    note: Target 'ToDoListApp' (project 'ToDoListApp') has Swift tasks not blocking downstream targets
+    note: Target 'ToDoListApp' (project 'ToDoListApp') has Swift tasks not blocking downstream targets
+error: Multiple commands produce '/Users/pavelpopov/Library/Developer/Xcode/DerivedData/ToDoListApp-enihinfxazpbpdadwutnrqquoxjp/Build/Intermediates.noindex/ToDoListApp.build/Debug-iphonesimulator/ToDoListApp.build/Objects-normal/x86_64/TaskEntity+CoreDataProperties.o'
+    note: Target 'ToDoListApp' (project 'ToDoListApp') has Swift tasks not blocking downstream targets
+    note: Target 'ToDoListApp' (project 'ToDoListApp') has Swift tasks not blocking downstream targets
+error: Multiple commands produce '/Users/pavelpopov/Library/Developer/Xcode/DerivedData/ToDoListApp-enihinfxazpbpdadwutnrqquoxjp/Build/Intermediates.noindex/ToDoListApp.build/Debug-iphonesimulator/ToDoListApp.build/Objects-normal/x86_64/TaskEntity+CoreDataClass.stringsdata'
+    note: Target 'ToDoListApp' (project 'ToDoListApp') has Swift tasks not blocking downstream targets
+    note: Target 'ToDoListApp' (project 'ToDoListApp') has Swift tasks not blocking downstream targets
+error: Multiple commands produce '/Users/pavelpopov/Library/Developer/Xcode/DerivedData/ToDoListApp-enihinfxazpbpdadwutnrqquoxjp/Build/Intermediates.noindex/ToDoListApp.build/Debug-iphonesimulator/ToDoListApp.build/Objects-normal/x86_64/TaskEntity+CoreDataProperties.stringsdata'
+    note: Target 'ToDoListApp' (project 'ToDoListApp') has Swift tasks not blocking downstream targets
+    note: Target 'ToDoListApp' (project 'ToDoListApp') has Swift tasks not blocking downstream targets
+
+
+Building targets in dependency order
+
+Multiple commands produce '/Users/pavelpopov/Library/Developer/Xcode/DerivedData/ToDoListApp-enihinfxazpbpdadwutnrqquoxjp/Build/Intermediates.noindex/ToDoListApp.build/Debug-iphonesimulator/ToDoListApp.build/Objects-normal/x86_64/TaskEntity+CoreDataClass.o'
+
+Multiple commands produce '/Users/pavelpopov/Library/Developer/Xcode/DerivedData/ToDoListApp-enihinfxazpbpdadwutnrqquoxjp/Build/Intermediates.noindex/ToDoListApp.build/Debug-iphonesimulator/ToDoListApp.build/Objects-normal/x86_64/TaskEntity+CoreDataProperties.o'
+
+Multiple commands produce '/Users/pavelpopov/Library/Developer/Xcode/DerivedData/ToDoListApp-enihinfxazpbpdadwutnrqquoxjp/Build/Intermediates.noindex/ToDoListApp.build/Debug-iphonesimulator/ToDoListApp.build/Objects-normal/x86_64/TaskEntity+CoreDataClass.stringsdata'
+
+Multiple commands produce '/Users/pavelpopov/Library/Developer/Xcode/DerivedData/ToDoListApp-enihinfxazpbpdadwutnrqquoxjp/Build/Intermediates.noindex/ToDoListApp.build/Debug-iphonesimulator/ToDoListApp.build/Objects-normal/x86_64/TaskEntity+CoreDataProperties.stringsdata'
+
+
+
+Build failed    24.11.2024, 06:38    0.1 seconds
